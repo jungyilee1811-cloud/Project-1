@@ -1,6 +1,7 @@
 import json 
 import os 
 import requests 
+import time
 
 FILE_NAME="facts.json" 
 def load_facts(): 
